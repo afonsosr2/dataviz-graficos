@@ -75,7 +75,7 @@ Neste projeto, vamos explorar diversos gráficos de comparação dentre eles:
 
 ### Gráficos de Distribuição
 
-Neste projeto, vamos explorar diversos gráficos de distrbuição dentre eles:
+Neste projeto, vamos explorar diversos gráficos de distribuição dentre eles:
 
 - Histograma de Colunas
 - Histograma de Linhas
